@@ -1,9 +1,7 @@
-### Hi there! I'm Diogo, nice to meet you! 👋
+### Hi there! I'm **Diogo**, nice to meet you! 👋
 
 <!--
 **dsperax/dsperax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - :blue_heart: I’m currently working on **Autoglass**
 - :computer: I’m currently learning **Development**

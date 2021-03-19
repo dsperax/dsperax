@@ -4,7 +4,7 @@
 - :computer: I’m currently learning **Development**
 - 📫 How to reach me? **E-mail [here](mailto:diogosperax@gmail.com)**
 - :open_file_folder: Some of my projects **[here](https://github.com/dsperax?tab=repositories)**
-- ⚡ Fun fact: punx :skull:
+- ⚡ Fun fact: **punx** :skull:
 
 <h3 align="left">Connect:</h3>
 <p align="left">

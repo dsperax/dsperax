@@ -2,7 +2,7 @@
 
 - :blue_heart: I’m currently working on **Autoglass**
 - :computer: I’m currently learning **Development**
-- 📫 How to reach me? **E-mail** [here](mailto:diogosperax@gmail.com)
+- 📫 How to reach me? **E-mail [here](mailto:diogosperax@gmail.com)**
 - :open_file_folder: Some of my projects **[here](https://github.com/dsperax?tab=repositories)**
 - ⚡ Fun fact: punx :skull:
 

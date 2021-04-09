@@ -15,7 +15,7 @@
 <h3 align="left">Some statistics:</h3>
 <p align="left">
   
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dsperax&show_icons=true&theme=tokyonight&count_private=true&line_height=33) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsperax&show_icons=true&theme=tokyonight&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dsperax&show_icons=true&theme=tokyonight&count_private=true&line_height=40) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsperax&show_icons=true&theme=tokyonight&count_private=true)
 
 <!--
 **dsperax/dsperax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

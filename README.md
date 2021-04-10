@@ -5,6 +5,7 @@
 - 📫 How to reach me? **E-mail [here](mailto:diogosperax@gmail.com)**
 - :open_file_folder: Some of my projects **[here](https://github.com/dsperax?tab=repositories)**
 - ⚡ Fun fact: **punx** :skull:
+- My personal webpage: **[WebSite](https://dsperax.github.io/)**
 
 <h3 align="left">Connect:</h3>
 <p align="left">

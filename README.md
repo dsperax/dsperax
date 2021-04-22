@@ -2,8 +2,8 @@
 
 - :blue_heart: I’m currently working on **Autoglass**
 - :computer: I’m currently learning **Development**
-- 📫 How to reach me? **E-mail [here](mailto:diogosperax@gmail.com)**
-- :open_file_folder: Some of my projects **[here](https://github.com/dsperax?tab=repositories)**
+- 📫 How to reach me? **[Email](mailto:diogosperax@gmail.com)**
+- :open_file_folder: Some of my **[Projects](https://github.com/dsperax?tab=repositories)**
 - ⚡ Fun fact: **[punx](https://github.com/punxcodes)** :skull:
 - :pencil: Colaborate with **[Codes-facilitator](https://github.com/dsperax/Codes-facilitator)** project!
 - :seedling: My personal **[WebSite](https://dsperax.github.io/)**

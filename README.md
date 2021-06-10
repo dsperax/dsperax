@@ -13,11 +13,14 @@
   
 <a href="https://www.linkedin.com/in/diogosperandio/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/> </a> 
 
+
+
+<!--
+**dsperax/dsperax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--
 ---
 <h3 align="left">Some statistics:</h3>
 <p align="left">
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dsperax&show_icons=true&theme=tokyonight&count_private=true&line_height=40) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsperax&show_icons=true&theme=tokyonight&count_private=true)
-
-<!--
-**dsperax/dsperax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--!>

@@ -3,6 +3,7 @@
 - :blue_heart: I’m currently working on **Autoglass**
 - :computer: I’m currently learning **Development** & 🤖
 - 📫 How to reach me? **[Email](mailto:diogosperax@gmail.com)**
+- 📖 Content: **[Books](https://github.com/dsperax/pdf-for-download)**
 - :open_file_folder: Some of my **[Projects](https://github.com/dsperax?tab=repositories)**
 - ⚡ Fun fact: **Happy People** 😄
 

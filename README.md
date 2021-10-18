@@ -5,7 +5,7 @@
 - 📫 How to reach me? **[Email](mailto:diogosperax@gmail.com)**
 - 📖 Content: **[Books](https://github.com/dsperax/pdf-for-download)**
 - :open_file_folder: Some of my **[Projects](https://github.com/dsperax?tab=repositories)**
-- ⚡ Fun fact: **Happy People** 😄
+- ⚡ Fun fact: **LOTR Fan** 💍 ⛰️ 🐉
 
 <h3 align="left">Connect:</h3>
 <p align="left">

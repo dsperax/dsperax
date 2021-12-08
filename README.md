@@ -1,6 +1,6 @@
 ### Hi there! I'm **Diogo**, nice to meet you! 👋
 
-- :blue_heart: I’m currently working on **Autoglass**
+- :blue_heart: I’m currently working on **CSI**
 - :computer: I’m currently learning **Development** & 🤖
 - 📫 How to reach me? **[Email](mailto:diogosperax@gmail.com)**
 - 📖 Content: **[Books](https://github.com/dsperax/pdf-for-download)**

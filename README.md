@@ -1,8 +1,8 @@
 ### Hi there! I'm **Diogo**, nice to meet you! 👋
 
 - :blue_heart: Software engineer at **Via**
+- :computer: **[Professional Profile](https://github.com/diogoSperandioXavier)**
 - :earth_americas: Dual nationality - Brazilian and Italian
-- :computer: I’m currently learning **Development**
 - 📫 How to reach me? **[Email](mailto:diogosperax@gmail.com)**
 - 📖 Content: **[Books](https://github.com/dsperax/pdf-for-download)**
 - :open_file_folder: Some of my **[Projects](https://github.com/dsperax?tab=repositories)**

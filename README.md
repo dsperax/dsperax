@@ -5,7 +5,7 @@
 - :computer: **[Professional Profile](https://github.com/diogoSperandioXavier)**
 - :earth_americas: Dual nationality - Brazilian and Italian
 - 📫 How to reach me? **[Email](mailto:diogosperax@gmail.com)**
-- 📖 Content: **[Books](https://github.com/dsperax/pdf-for-download)** - Last Medium post: **[Backend architecture](https://dsperax.medium.com/exploring-backend-architectures-9f09b125ae57)**
+- 📖 Content: **[Books](https://github.com/dsperax/pdf-for-download)**
 - :open_file_folder: Some of my **[Projects](https://github.com/dsperax?tab=repositories)**
 - ⚡ Fun fact: **LOTR Fan** 💍 ⛰️ 🐉
 

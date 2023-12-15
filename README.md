@@ -1,6 +1,6 @@
 ### Hi there! I'm **Diogo**, nice to meet you! 👋
 
-- :blue_heart: Software engineer at **[Grupo Casas Bahia](https://br.linkedin.com/company/grupocasasbahia?trk=similar-pages)**
+- :blue_heart: Software
 - 📘 Software Architecture at **PUC-MG**
 - :computer: **[Professional Profile](https://github.com/diogoSperandioXavier)**
 - :earth_americas: Dual nationality - Brazilian and Italian

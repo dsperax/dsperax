@@ -8,7 +8,7 @@
 - 📖 Content: **[Books](https://github.com/dsperax/pdf-for-download)**
 - :open_file_folder: Some of my **[Projects](https://github.com/dsperax?tab=repositories)**
 - ⚡ Fun fact: **LOTR Fan** 💍 ⛰️ 🐉
-- Recommendation: **[microsservices](https://microservices.io/patterns/)**
+- 🆒 Recommendation: **[microsservices](https://microservices.io/patterns/)**
 
 <h3 align="left">Connect:</h3>
 <p align="left">

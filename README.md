@@ -2,13 +2,12 @@
 
 - :blue_heart: Software
 - 📘 Software Architecture at **PUC-MG**
-- :computer: **[Professional Profile](https://github.com/diogoSperandioXavier)**
 - :earth_americas: Dual nationality - Brazilian and Italian
 - 📫 How to reach me? **[Email](mailto:diogosperax@gmail.com)**
 - 📖 Content: **[Books](https://github.com/dsperax/pdf-for-download)**
 - :open_file_folder: Some of my **[Projects](https://github.com/dsperax?tab=repositories)**
 - ⚡ Fun fact: **LOTR Fan** 💍 ⛰️ 🐉
-- 🆒 Recommendation: **[microsservices](https://microservices.io/patterns/)**
+- :computer: Recommendation: **[microsservices](https://microservices.io/patterns/)**
 
 <h3 align="left">Connect:</h3>
 <p align="left">

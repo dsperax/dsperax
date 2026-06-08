@@ -1,6 +1,5 @@
 ### Hi there! I'm **Diogo**, nice to meet you! 👋
 
-- :blue_heart: Software
 - 📘 Software Architecture at **PUC-MG**
 - :earth_americas: Dual nationality - Brazilian and Italian
 - 📖 Content: **[Books](https://github.com/dsperax/pdf-for-download)**
